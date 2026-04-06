@@ -1,19 +1,37 @@
 [
   {
-    "Id": "1",
-    "Title": "Gece Yağmuru & Gök Gürültüsü",
-    "Description": "Derin odaklanma ve uyku için pürüzsüz yağmur sesi.",
-    "ThumbnailPath": "https://seninsiten.com/medya/yagmur.jpg",
-    "AudioPath": "https://seninsiten.com/medya/yagmur.mp3",
+    "Id": "oasis-01",
+    "Title": "Rahatlatıcı Gece Fırtınası - Yağmur & Gök Gürültüsü",
+    "Description": "Derin ve rahatlatıcı gök gürültüsü eşliğinde yağmur.",
+    "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Rain8.jpeg?raw=true",
+    "AudioPath": "https://drive.google.com/uc?export=download&id=1OqqXd09UL6UalZNfvJ4fD158bUqaseuU",
     "Duration": "1 Saat",
     "DevVisibility": 2
   },
   {
-    "Id": "2",
-    "Title": "Kozmik Derinlik (Space)",
-    "Description": "Yaratıcı oyun geliştirme ve tasarım için lo-fi tonlar.",
-    "ThumbnailPath": "https://seninsiten.com/medya/space.jpg",
-    "AudioPath": "https://seninsiten.com/medya/space.mp3",
+    "Id": "oasis-02",
+    "Title": "Bahar Esintisi - Rüzgar Melodisi & Kuş Cıvıltısı",
+    "Description": "Rüzgar çanı, yaz esintisi ve huzurlu kuş cıvıltıları.",
+    "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Cicidas9.jpeg?raw=true",
+    "AudioPath": "https://drive.google.com/uc?export=download&id=1qmujJq_3yyLG8IfHdD-5vIVDJNJG-2iV",
+    "Duration": "1 Saat",
+    "DevVisibility": 2
+  },
+  {
+    "Id": "oasis-03",
+    "Title": "Kozmik Yağmur - Dinginleştirici & Odak",
+    "Description": "Gelecekteki bir gezegende yabancı fırtına sesleri.",
+    "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Echoes16.jpeg?raw=true",
+    "AudioPath": "https://drive.google.com/uc?export=download&id=16__U0XW6dC1RF3dEvmRCPUhioSdYouiR",
+    "Duration": "1 Saat",
+    "DevVisibility": 2
+  },
+  {
+    "Id": "oasis-04",
+    "Title": "Sakin Yağmur - Şömine & Rüzgar",
+    "Description": "Cama vuran şiddetli yağmur ve çıtırdayan şömine.",
+    "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Cold17.jpeg?raw=true",
+    "AudioPath": "https://drive.google.com/uc?export=download&id=1J53MA_dKV1jWsXNPR_vDQsWGDkKmykKb",
     "Duration": "1 Saat",
     "DevVisibility": 2
   }
