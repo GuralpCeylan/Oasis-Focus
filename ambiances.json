@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "1",
+    "Title": "Gece Yağmuru & Gök Gürültüsü",
+    "Description": "Derin odaklanma ve uyku için pürüzsüz yağmur sesi.",
+    "ThumbnailPath": "https://seninsiten.com/medya/yagmur.jpg",
+    "AudioPath": "https://seninsiten.com/medya/yagmur.mp3",
+    "Duration": "1 Saat",
+    "DevVisibility": 2
+  },
+  {
+    "Id": "2",
+    "Title": "Kozmik Derinlik (Space)",
+    "Description": "Yaratıcı oyun geliştirme ve tasarım için lo-fi tonlar.",
+    "ThumbnailPath": "https://seninsiten.com/medya/space.jpg",
+    "AudioPath": "https://seninsiten.com/medya/space.mp3",
+    "Duration": "1 Saat",
+    "DevVisibility": 2
+  }
+]
