@@ -98,15 +98,7 @@
         "Duration": "1 Saat",
         "DevVisibility": 2
     },
-    {
-        "Id": "oasis-12",
-        "Title": "Ormanda Gece Kampı ve Fırtına",
-        "Description": "Derin bir ormanda gece kamp ateşi yanarken başlayan gök gürültülü sağanak yağmur.",
-        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Camp32.jpeg?raw=true",
-        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/f085763la0q0u8305pfhb/32-128kbps.mp3?rlkey=b3qjqqoqk8thdjv9tp3xfoaiu&st=fk2muo50&raw=1",
-        "Duration": "1 Saat",
-        "DevVisibility": 2
-    },
+  
     {
         "Id": "oasis-13",
         "Title": "Cam Kenarında Göl Yağmuru",
