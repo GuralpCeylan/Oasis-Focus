@@ -34,5 +34,86 @@
     "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/2ktdqjfb6x2bhhsx8quz8/17-128Kbps.mp3?rlkey=ipoljl05sd6pu6li0kjrckndu&st=gvws6duk&raw=1",
     "Duration": "1 Saat",
     "DevVisibility": 2
-  }
+  },
+  {
+        "Id": "oasis-05",
+        "Title": "Sakin Rüzgar ve Rüzgar Çanı",
+        "Description": "Sessiz ve huzurlu bir ortamda esen sakin rüzgar ve hafif rüzgar çanı tınıları.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Soft18.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/xhv9eps9y6hc39juun03f/18-128kbps.mp3?rlkey=tubkryhjk4frru17m23i7x73m&st=ym9g3max&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-06",
+        "Title": "Kış Evi - Şömine ve Rüzgar",
+        "Description": "Sıcak bir ev ortamında çıtırdıyan şömine ateşi ve dışarıdan duyulan kış rüzgarı.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Winter19.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/p7ja7vhcd16ecs024mqdi/19-128kbps.mp3?rlkey=ipqtknn512begfhb6gkev1x14&st=b7fd2mk6&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-07",
+        "Title": "Gece Kar Yağışı ve Uğuldayan Rüzgar",
+        "Description": "Karanlık bir kış gecesinde yağan saf kar ve doğanın içinden gelen rüzgar sesi.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Snowy20.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/bkwad0q1uimakt41p2bh4/20-128kbps.mp3?rlkey=3yu863x6aq2mzncjam8hy001l&st=szhs5cfx&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-08",
+        "Title": "Kış Soğuğu ve Kuş Cıvıltıları",
+        "Description": "Dondurucu kış soğuğunun ortasında yankılanan umut verici ve huzurlu kuş cıvıltıları.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Cold22.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/y2rur0cn5u52b4fbh7xrl/22-128kbps.mp3?rlkey=yh7t550bzogxesdarwdoca9jv&st=6sar4xdb&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-09",
+        "Title": "Japon Bahçesinde Yağmur ve Kuşlar",
+        "Description": "Geleneksel bir Japon bahçesine düşen ince yağmur damlaları ve rahatlatıcı kuş sesleri.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Calm25.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/z3gnz787jo0ixislb6l7z/25-128kbps.mp3?rlkey=14c58gntnj9gv9hmwfdz3btxu&st=m8kgrzq5&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-10",
+        "Title": "Geleceğin Dünyası - Siberpunk Yağmuru",
+        "Description": "Fütüristik bir şehirde yağan yağmur ve distopik geleceğin derin ambiyans sesleri.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Future29.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/3vludm128644j2lrnhmj3/29-128kbps.mp3?rlkey=7xvowia5c7h5afd5fd4fo44if&st=7ozl8kbu&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-11",
+        "Title": "Gün Batımında Sakin Deniz",
+        "Description": "Issız bir sahilde gün batarken kıyıya usulca vuran huzur verici deniz dalgaları.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Sea30.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/wdpv74pi3lpsyy0tzpja4/30-128kbps.mp3?rlkey=ojrljx127i4jz1sjypft3yif8&st=z7iyu0rr&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-12",
+        "Title": "Ormanda Gece Kampı ve Fırtına",
+        "Description": "Derin bir ormanda gece kamp ateşi yanarken başlayan gök gürültülü sağanak yağmur.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/Camp32.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/f085763la0q0u8305pfhb/32-128kbps.mp3?rlkey=b3qjqqoqk8thdjv9tp3xfoaiu&st=fk2muo50&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    },
+    {
+        "Id": "oasis-13",
+        "Title": "Cam Kenarında Göl Yağmuru",
+        "Description": "Sıcak ve kapalı bir mekanda, camın arkasından izlenen sakin göl yağmuru.",
+        "ThumbnailPath": "https://github.com/GuralpCeylan/Oasis-Focus/blob/main/Images_Oasis-Focus/City34.jpeg?raw=true",
+        "AudioPath": "https://dl.dropboxusercontent.com/scl/fi/o0aafc16r823yyzqs9nx4/36-128kbps.mp3?rlkey=4dl9n8zhof2a1dzk22suvukpi&st=7oq7upl7&raw=1",
+        "Duration": "1 Saat",
+        "DevVisibility": 2
+    }
 ]
